@@ -1,0 +1,3 @@
+[submodule "models/QAT"]
+	path = models/QAT
+	url = git@github.com:danielSchTu/EfficientConvBNQuantization.git
